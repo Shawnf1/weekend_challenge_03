@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Allan",
+		"shoutOut": "Thanks to Allan for his unique brand of humor and ability to lighten the mood!"
+	},
+	{
+		"name": "Ben",
+		"shoutOut": "It's been great working with Ben the last few days. He approaches problems in a similar fashion to myself. When something doesn't work, continuously iterate until you find the solution. It isn't elegant but it gets the job done. I've enjoyed seeing his iteration practices though. He tends toward employing logic and tinkering slightly with the code whereas I quickly turn to Google / documentation / Stack for hints. I think we work pretty well together."
+	},
+	{
+		"name": "Brendan",
+		"shoutOut": "Thanks to Brendan for providing assistance and explaining some of the topics discussed today."
+	},
+	{
+		"name": "Elizabeth",
+		"shoutOut": "Thanks to Liz. She's always so cheerful and nice. And she cracks me up. Now that I'm in a desk pod with her, I'll probably be laughing 50% more each day."
+	},
+	{
+		"name": "Garrett",
+		"shoutOut": "Thanks Garrett! You always cheer me up and make me laugh. You are also sweet to check in with me and always offer to help."
+	},
+	{
+		"name": "Jacob",
+		"shoutOut": "Jake is always willing to help and is EXTREMELY knowledgeable. He never judges questions and is very empathetic"
+	},
+	{
+		"name": "James",
+		"shoutOut": "James is always friendly and helpful. He assisted me today when I was spinning my wheels. He is also very sensitive about not telling you the answer but instead helping you uncover it."
+	},
+	{
+		"name": "Jason S",
+		"shoutOut": "Thanks to Jason S for being a patient teacher"
+	},
+	{
+		"name": "Jason N",
+		"shoutOut": "Jason helped with some confusing things today."
+	},
+	{
+		"name": "Kamie",
+		"shoutOut": "Thanks to Kamie for pushing me to think about problems in new ways"
+	},
+	{
+		"name": "Katie",
+		"shoutOut": "Katie rocked my world today. She is a really good communicator and I learned a lot from working with her."
+	},
+	{
+		"name": "Kate",
+		"shoutOut": "Thanks to Kate for being such a calming influence in our group!"
+	},
+	{
+		"name": "Kim",
+		"shoutOut": "Kim for being supportive and inclusive and letting me practice trying to help when I figured things out quicker and for helping me see where I had missed things by going too fast. Also for just generally being really fun to talk to!"
+	},
+	{
+		"name": "Madeleine",
+		"shoutOut": "Thanks to Madeleine for asking questions that are helpful and I wouldn’t think of myself during lecture"
+	},
+	{
+		"name": "Martha",
+		"shoutOut": "Whenever I write *Martha*, it means that Martha helped me again. Martha was also helpful in bringing people together in the group, and getting everyone involved"
+	},
+	{
+		"name": "Matt",
+		"shoutOut": "HUGE shoutout to Matt, he helped me after hours"
+	},
+	{
+		"name": "Shawn",
+		"shoutOut": "shout out to shawn for hooking me up in my time of need with the jquery .empty() and .remove() methods, as i was stuck."
+	},
+	{
+		"name": "Vas",
+		"shoutOut": "Thanks to Vas for being very helpful and asking great questions"
+	}
+]
