@@ -6,3 +6,39 @@ body {
 a {
   color: #00B7FF;
 }
+
+button {
+    background-color: #00B7FF;
+}
+
+.buttons {
+    margin: 10px 10px 10px 0;
+}
+
+#student_div {
+    margin-left:10px;
+    min-height: 80px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.hidden {
+    display: none;
+}
+
+#timer_spn {
+    background-color: #485563;
+    /*background-color: #363f63;*/
+    min-width: 15px;
+    min-height: 15px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+
+div {
+    clear:left;
+}
